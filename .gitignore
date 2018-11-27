@@ -1,1 +1,4 @@
 maven/webapp/target
+maven/webapp/.project
+maven/webapp/.settings
+maven/webapp/bin
